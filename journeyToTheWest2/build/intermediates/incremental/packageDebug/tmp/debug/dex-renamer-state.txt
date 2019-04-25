@@ -1,0 +1,4 @@
+#Thu Apr 25 14:21:28 KST 2019
+base.0=D\:\\android_studio_workspace\\JourneyToTheWest2_templete\\journeyToTheWest2\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":5,"versionName":"1.2.2","enabled":true,"outputFile":"journeyToTheWest2-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.littlefox.storybook.journeytothewest2","split":"","minSdkVersion":"16"}}]
